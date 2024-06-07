@@ -1,0 +1,7 @@
+,Work Order,Type,Description,Status,Organization,Dept.,Equipment,Responsible Dept,Date Reported,Reported By,Sched. Start Date,Sched. End Date,Date Completed,Date Created,PM Code,Standard WO,Assigned To
+6,921912,Safety,M08522 major coolant/oil leak,Hold,PMDA,D61,M08522,MT,2024-05-02 14:13:00,SBATHURST,5/2/2024,5/2/2024,,5/2/2024,,,
+9,920851,Breakdown-Prodn Equip Cannot Run,Coolant leak,Released,PMDA,D21A,M06020,MT,2024-04-30 05:06:00,KEN.DUNFORD,4/30/2024,4/30/2024,,4/30/2024,,,
+10,920646,Breakdown-Prodn Equip Cannot Run,Coolant leak,Released,PMDA,D21C,M09922,MT,2024-04-29 11:05:00,SMCLELLAN,5/13/2024,5/13/2024,,4/29/2024,,,MDUARTE
+28,915848,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State",Cleanout - oil leaking into coolant caused heavy oil contamination,Completed,PMDA,D19B,M04030,MT,2024-04-11 10:48:00,SCURRAN,4/14/2024,4/14/2024,4/22/2024 7:27,4/11/2024,,,NSIMON
+35,915147,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State",Deburr Inlet conveyor coolant leak,Completed,PMDA,D21B,M06058,MT,2024-04-09 12:09:00,,4/27/2024,4/27/2024,4/28/2024 3:05,4/9/2024,,,LDAVIE
+37,915134,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State",Coolant leak underneath the washer. Coolant and oil inside the washer ,Released,PMDA,D13A,M06775,MT,2024-04-09 11:32:00,RBROWN,5/12/2024,5/12/2024,,4/9/2024,,,OESCOBAR

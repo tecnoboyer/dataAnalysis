@@ -1,0 +1,7 @@
+Red Tagged By?	Leonardo Boyer		Red Tagged from What Area/Machine?		C Can1 
+Date Item Tagged?	29-Mar-24	Where is the Item Located Now?		C Can1	
+Item Name	DEMAG,GF9 HUB			Item Advisor	Mgmt
+Item Description	DEMAG,GF9 HUB			Primary Asset #	Not Available
+Disposition	Management Review for Disposal of Machine/Tooling			Component ASSET #	M06641
+Assign To		Done	No	Tooling Serial #	N/A
+Comment				Tooling Owner?	Not Applicable

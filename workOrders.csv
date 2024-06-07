@@ -1,0 +1,131 @@
+Work Order,Type,Description,Status,Organization,Dept.,Equipment,Responsible Dept,Date Reported,Reported By,Sched. Start Date,Sched. End Date,Date Completed,Date Created,PM Code,Standard WO,Assigned To
+924199,Plant Equip Related Work,REPAIR LEAKING WASTE WATER LINE AT END OF 1008 STEAMER,Supervisor Review,PMDA,D52,C52,MT,5/13/2024 7:13,EHAMMILL,5/13/2024,5/13/2024,5/13/2024 7:15,5/13/2024,,,
+924184,Breakdown-Prodn Equip Cannot Run,Hydraulic leak ,Supervisor Review,PMDA,D21A,M09995,MT,5/13/2024 5:28,RADAMS,5/13/2024,5/13/2024,5/13/2024 5:29,5/13/2024,,,
+923213,Breakdown-Prodn Equip Cannot Run,low pressure accumulator leaking,Hold,PMDA,D10,M02930,MT,5/8/2024 10:16,LBRUZAS,5/8/2024,5/8/2024,,5/8/2024,,,
+922653,Breakdown-Prodn Equip Cannot Run,Investigate leak in tub ,Released,PMDA,D19B,M04207,MT,5/6/2024 9:08,SMCLELLAN,5/17/2024,5/17/2024,,5/6/2024,,,KEN.DUNFORD
+922365,Breakdown-Prodn Equip Cannot Run,air leak on gripper,Completed,PMDA,D19B,M06008,MT,5/5/2024 1:41,MMOORE,5/5/2024,5/5/2024,5/5/2024 1:43,5/5/2024,,,
+922005,Breakdown-Prodn Equip Cannot Run,Brake Air line Leak,Supervisor Review,PMDA,D03,M02590,MT,5/2/2024 17:53,RADAMS,5/2/2024,5/2/2024,5/2/2024 17:54,5/2/2024,,,
+921912,Safety,M08522 major coolant/oil leak,Hold,PMDA,D61,M08522,MT,5/2/2024 14:13,SBATHURST,5/2/2024,5/2/2024,,5/2/2024,,,
+921299,Breakdown-Prodn Equip Cannot Run,273 Quick exhaust valves leaking,Released,PMDA,D03,M02730,MT,4/30/2024 18:11,MDUARTE,4/30/2024,4/30/2024,,4/30/2024,,,
+920856,Breakdown-Prodn Equip Cannot Run,Air leak,Completed,PMDA,D19B,M06008,MT,4/30/2024 5:13,KEN.DUNFORD,4/30/2024,4/30/2024,4/30/2024 5:20,4/30/2024,,,
+920851,Breakdown-Prodn Equip Cannot Run,Coolant leak,Released,PMDA,D21A,M06020,MT,4/30/2024 5:06,KEN.DUNFORD,4/30/2024,4/30/2024,,4/30/2024,,,
+920646,Breakdown-Prodn Equip Cannot Run,Coolant leak,Released,PMDA,D21C,M09922,MT,4/29/2024 11:05,SMCLELLAN,5/13/2024,5/13/2024,,4/29/2024,,,MDUARTE
+920445,Breakdown-Prodn Equip Cannot Run,air leak,Completed,PMDA,D08,M03995,MT,4/28/2024 3:07,OESCOBAR,4/28/2024,4/28/2024,4/28/2024 3:08,4/28/2024,,,
+920378,Breakdown-Prodn Equip Cannot Run,Water Leak ,Completed,PMDA,D19B,M04312,MT,4/27/2024 17:42,RADAMS,4/27/2024,4/27/2024,4/27/2024 17:43,4/27/2024,,,
+920372,Breakdown-Prodn Equip Cannot Run,Air leak / Lube Fault,Completed,PMDA,D11,M04070,MT,4/27/2024 17:04,RADAMS,4/27/2024,4/27/2024,4/27/2024 17:05,4/27/2024,,,
+920009,Breakdown-Prodn Equip Cannot Run,air tool oil leak at cylinders,Hold,PMDA,D19B,M04003,MT,4/26/2024 11:13,SMCLELLAN,4/26/2024,4/26/2024,,4/26/2024,,,
+919999,Breakdown-Prodn Equip Cannot Run,air tool oil leak out cylinders,Hold,PMDA,D19B,M04004,MT,4/26/2024 11:06,SMCLELLAN,4/26/2024,4/26/2024,,4/26/2024,,,
+919949,Breakdown-Prodn Equip Cannot Run,core rod quick exhaust leak,Completed,PMDA,D01,M02790,MT,4/26/2024 4:09,MMOORE,4/26/2024,4/26/2024,4/26/2024 4:13,4/26/2024,,,
+919479,Standing wo,oil leaks,Released,PMDA,D04,M02250,MT,4/24/2024 11:17,LBRUZAS,4/24/2024,4/24/2024,,4/24/2024,,,
+919478,Standing wo,oil leaks,Released,PMDA,D05,M02200,MT,4/24/2024 11:15,LBRUZAS,4/24/2024,4/24/2024,,4/24/2024,,,
+919477,Standing wo,oil leaks,Released,PMDA,D06,M02150,MT,4/24/2024 11:14,LBRUZAS,4/24/2024,4/24/2024,,4/24/2024,,,
+919474,Standing wo,oil leaks,Released,PMDA,D06,M02100,MT,4/24/2024 11:13,LBRUZAS,4/24/2024,4/24/2024,,4/24/2024,,,
+919472,Standing wo,oil leaks,Released,PMDA,D07,M02000,MT,4/24/2024 11:09,LBRUZAS,4/24/2024,4/24/2024,,4/24/2024,,,
+918948,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State",2.5 couplers leaking,Completed,PMDA,D05,M02200,MT,4/23/2024 10:58,LBRUZAS,4/23/2024,4/23/2024,4/23/2024 11:07,4/23/2024,,,
+918875,Breakdown-Prodn Equip Cannot Run,air leak,Completed,PMDA,D08,M03995,MT,4/23/2024 5:32,OESCOBAR,4/23/2024,4/23/2024,4/23/2024 5:33,4/23/2024,,,
+917579,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State",drip pan - oil leak ,Supervisor Review,PMDA,D19B,M06008,MT,4/18/2024 9:57,JLE,5/12/2024,5/12/2024,5/12/2024 5:04,4/18/2024,,,RADAMS
+916852,Breakdown-Prodn Equip Cannot Run,7220 leak at the coil,Completed,PMDA,D18A,M07220,MT,4/16/2024 5:16,MDUARTE,4/16/2024,4/16/2024,4/16/2024 5:19,4/16/2024,,,
+916047,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State",6400 Deburr leak,Requested Work,PMDA,D19A,M06400,MT,4/12/2024 9:15,JDAVIES,4/12/2024,4/12/2024,,4/12/2024,,,
+915864,Plant Equip Related Work,WASTE WATER LEAK BY END OF 1008 STEAMER,Completed,PMDA,D52,C52,MT,4/11/2024 14:28,EHAMMILL,4/11/2024,4/11/2024,4/11/2024 14:30,4/11/2024,,,
+915848,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State",Cleanout - oil leaking into coolant caused heavy oil contamination,Completed,PMDA,D19B,M04030,MT,4/11/2024 10:48,SCURRAN,4/14/2024,4/14/2024,4/22/2024 7:27,4/11/2024,,,NSIMON
+915754,Breakdown-Prodn Equip Cannot Run,all steamers have water leaking at unload,Completed,PMDA,D13C,M01008,MT,4/11/2024 4:16,RMALONEY,4/11/2024,4/11/2024,4/11/2024 4:19,4/11/2024,,,
+915153,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State",Oil leak at the back,Released,PMDA,D21C,M05700,MT,4/9/2024 12:17,,5/6/2024,5/6/2024,,4/9/2024,,,OESCOBAR
+915152,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State",Oil leak at filter change,Originator Review,PMDA,D21C,M05700,MT,4/9/2024 12:15,,5/6/2024,5/6/2024,5/6/2024 10:13,4/9/2024,,,OESCOBAR
+915151,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State",Robot Pickup station leak inside the grinder,Released,PMDA,D21C,M05700,MT,4/9/2024 12:13,,5/6/2024,5/6/2024,,4/9/2024,,,OESCOBAR
+915150,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State",Filter change area oil leak,Originator Review,PMDA,D21C,M05710,MT,4/9/2024 12:12,,4/27/2024,4/27/2024,4/27/2024 13:18,4/9/2024,,,LDAVIE
+915149,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State",Grinder Oil leak underneath ,Released,PMDA,D21C,M05710,MT,4/9/2024 12:10,,4/23/2024,4/23/2024,,4/9/2024,,,OESCOBAR
+915147,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State",Deburr Inlet conveyor coolant leak,Completed,PMDA,D21B,M06058,MT,4/9/2024 12:09,,4/27/2024,4/27/2024,4/28/2024 3:05,4/9/2024,,,LDAVIE
+915146,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State",Oil Skimmer is leaking,Supervisor Review,PMDA,D13A,M06775,MT,4/9/2024 12:07,,5/3/2024,5/3/2024,5/11/2024 14:27,4/9/2024,,,OESCOBAR
+915134,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State",Coolant leak underneath the washer. Coolant and oil inside the washer ,Released,PMDA,D13A,M06775,MT,4/9/2024 11:32,RBROWN,5/12/2024,5/12/2024,,4/9/2024,,,OESCOBAR
+915078,Breakdown-Prodn Equip Cannot Run,Hydraulic leak ,Completed,PMDA,D19B,M04030,MT,4/9/2024 5:46,,4/9/2024,4/9/2024,4/9/2024 5:58,4/9/2024,,,
+914693,Breakdown-Prodn Equip Cannot Run,oil leak from core rod,Completed,PMDA,D04,M02250,MT,4/8/2024 9:33,LBRUZAS,4/8/2024,4/8/2024,4/8/2024 9:35,4/8/2024,,,
+914484,Breakdown-Prodn Equip Cannot Run,air leak ,Completed,PMDA,D17C,M06839,MT,4/6/2024 16:56,RMALONEY,4/6/2024,4/6/2024,4/6/2024 16:59,4/6/2024,,,
+914274,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State",Leak to be repaired at the end of wash,Completed,PMDA,D21B,M06750,MT,4/5/2024 12:15,,4/21/2024,4/21/2024,4/21/2024 14:30,4/5/2024,,,MMOORE
+914179,Breakdown-Prodn Equip Cannot Run,Air leak ,Completed,PMDA,D11,M04560,MT,4/5/2024 2:54,OESCOBAR,4/5/2024,4/5/2024,4/5/2024 5:53,4/5/2024,,,
+914028,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State",Hydraulic oil is leaking through chuck inside machine,Requested Work,PMDA,D19A,M09820,MT,4/4/2024 12:08,AVORA,4/4/2024,4/4/2024,,4/4/2024,,,
+913696,Breakdown-Prodn Equip Cannot Run,COMPRESSOR 8059 HAS AIR LEAK AT JCI FITTING,Completed,PMDA,D53,M08059,MT,4/3/2024 9:35,EHAMMILL,4/3/2024,4/3/2024,4/3/2024 14:14,4/3/2024,,,
+913491,Plant Equip Related Work,RO WATER LEAK BETWEEN 1010 AND 1011 AGAIN,Released,PMDA,D13C,M01011,MT,4/2/2024 13:53,EHAMMILL,4/2/2024,4/2/2024,,4/2/2024,,,
+913385,Breakdown-Prodn Equip Cannot Run,M09905 Oil leak @ rotray union,Cancelled,PMDA,D21B,M09905,MT,4/2/2024 9:22,SBATHURST,4/19/2024,4/19/2024,4/20/2024 5:37,4/2/2024,,,MDUARTE
+913271,Breakdown-Prodn Equip Cannot Run,2630 bottom platen quick exhaust valve leaking,Completed,PMDA,D03,M02630,MT,4/1/2024 14:24,KFAIRWEATHER,4/1/2024,4/1/2024,4/1/2024 14:28,4/1/2024,,,
+913181,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State",2250.03H Rebuild (leaking),Hold,PMDA,D04,M02250.03H,MT,4/1/2024 10:55,JSINGH,4/1/2024,4/1/2024,,4/1/2024,,,
+912922,Breakdown-Prodn Equip Cannot Run,Air Leaks ,Released,PMDA,D21A,M06647,MT,3/30/2024 18:05,,5/15/2024,5/15/2024,,3/30/2024,,,JPATTEN
+912652,Breakdown-Prodn Equip Cannot Run,re seal valve in pit that has a bad leak,Supervisor Review,PMDA,D07,M02000,MT,3/28/2024 14:28,LBRUZAS,3/28/2024,3/28/2024,4/5/2024 6:44,3/28/2024,,,
+912292,Breakdown-Prodn Equip Cannot Run,fitting leaking,Completed,PMDA,D21B,M06070,MT,3/27/2024 5:25,LDAVIE,3/27/2024,3/27/2024,3/27/2024 5:29,3/27/2024,,,
+912067,Breakdown-Prodn Equip Cannot Run,AIR OR WATER LEAK CAUSING OXIDE PARTS,Hold,PMDA,D06,M03150,MT,3/26/2024 11:49,EHAMMILL,3/26/2024,3/26/2024,,3/26/2024,,,
+911066,Breakdown-Prodn Equip Cannot Run,Air Leak At Gauge ,Completed,PMDA,D19B,M04207,MT,3/21/2024 5:54,,3/21/2024,3/21/2024,3/23/2024 14:22,3/21/2024,,,
+910846,Breakdown-Prodn Equip Cannot Run,water leak,Completed,PMDA,D20,M10229,MT,3/20/2024 5:18,RMALONEY,3/20/2024,3/20/2024,3/20/2024 5:21,3/20/2024,,,
+910312,Breakdown-Prodn Equip Cannot Run,Magnetic transfer air leak ,Completed,PMDA,D18A,M07597,MT,3/18/2024 6:07,,3/18/2024,3/18/2024,3/18/2024 6:08,3/18/2024,,,
+910133,Breakdown-Prodn Equip Cannot Run,hyd leak,Completed,PMDA,D04,M02250,MT,3/16/2024 5:36,JPATTEN,3/16/2024,3/16/2024,3/16/2024 5:41,3/16/2024,,,
+910009,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State",Air leak.,Completed,PMDA,D18A,M06210,MT,3/15/2024 14:45,,3/15/2024,3/15/2024,3/15/2024 14:54,3/15/2024,,,
+909985,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State",Fix the coolant contamination on the air catch tubes or cross-media coolant leak,Hold,PMDA,D19A,M09820,MT,3/15/2024 13:33,AVORA,4/11/2024,4/11/2024,,3/15/2024,,,RMALONEY
+909983,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State",Trouble shoot and fix the hydraulic leaking issue on the top of the rotary union,Hold,PMDA,D19A,M09820,MT,3/15/2024 13:30,AVORA,4/11/2024,4/11/2024,,3/15/2024,,,RMALONEY
+909401,Breakdown-Prodn Equip Cannot Run,Cylinder air leak ,Completed,PMDA,D15A,M09553,MT,3/13/2024 5:40,,3/13/2024,3/13/2024,3/13/2024 5:41,3/13/2024,,,
+908700,Breakdown-Prodn Equip Cannot Run,air leaks on robot,Completed,PMDA,D15A,M07200,MT,3/8/2024 16:29,RMALONEY,3/8/2024,3/8/2024,3/8/2024 18:15,3/8/2024,,,
+908430,Plant Equip Related Work,"HURST BOILER NEEDS NEW BLOW DOWN SOLENOID, LEAKING",Completed,PMDA,D53,M00170,MT,3/7/2024 10:59,EHAMMILL,3/7/2024,3/7/2024,3/10/2024 12:28,3/7/2024,,,
+908342,Breakdown-Prodn Equip Cannot Run,Hydraulic leak ,Completed,PMDA,D21A,M06647,MT,3/6/2024 18:12,,3/6/2024,3/6/2024,3/6/2024 18:15,3/6/2024,,,
+907988,Breakdown-Prodn Equip Cannot Run,powder leak,Completed,PMDA,D01,M02790,MT,3/5/2024 17:44,RMALONEY,3/5/2024,3/5/2024,3/5/2024 17:46,3/5/2024,,,
+906622,Plant Equip Related Work,RO WATER LEAK BETWEEN 1010 AND 1011,Completed,PMDA,D13C,M01011,MT,2/28/2024 14:35,EHAMMILL,2/28/2024,2/28/2024,2/28/2024 14:42,2/28/2024,,,
+906618,Breakdown-Prodn Equip Cannot Run,M02460 Crown pump leaking,Completed,PMDA,D02,M02460,MT,2/28/2024 13:41,SBATHURST,2/28/2024,2/28/2024,4/13/2024 11:52,2/28/2024,,,
+906328,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State","Clean out, check for leaks, check PH",Completed,PMDA,D19B,M04030,MT,2/27/2024 11:18,SCURRAN,2/27/2024,3/8/2024,3/3/2024 14:43,2/27/2024,,,NSIMON
+906327,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State","Clean out, check for leaks, check PH",Completed,PMDA,D19B,M06008,MT,2/27/2024 11:16,SCURRAN,2/27/2024,3/8/2024,3/3/2024 14:45,2/27/2024,,,NSIMON
+906326,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State","Clean out, check for leaks, check PH",Completed,PMDA,D19B,M06022,MT,2/27/2024 11:15,SCURRAN,2/28/2024,3/8/2024,3/3/2024 14:44,2/27/2024,,,NSIMON
+905993,Breakdown-Prodn Equip Cannot Run,oil leak on234 crown,Hold,PMDA,D03,M02340,MT,2/26/2024 9:21,KFAIRWEATHER,2/26/2024,2/26/2024,,2/26/2024,,,
+905784,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State",coolant leak on washer ,Requested Work,PMDA,D19B,M04312,MT,2/24/2024 9:35,JLE,2/24/2024,2/24/2024,,2/24/2024,,,
+905208,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State",Air tool oil is leaking ,Completed,PMDA,D19B,M04003,MT,2/21/2024 17:04,AVORA,3/10/2024,3/10/2024,3/12/2024 8:24,2/21/2024,,,MMOORE
+905206,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State",Cutting oil is coming out from robot loading door. Need to seal leakge.,Ready to Schedule,PMDA,D19B,M04004,MT,2/21/2024 16:50,AVORA,2/21/2024,2/21/2024,,2/21/2024,,,
+905172,Breakdown-Prodn Equip Cannot Run,Coolant leak,Completed,PMDA,D16B,M04400,MT,2/21/2024 14:43,,2/21/2024,2/21/2024,2/21/2024 14:44,2/21/2024,,,
+905104,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State",broken plastic guard leaking coolant,Ready to Schedule,PMDA,D16B,M04400,MT,2/21/2024 10:26,,2/21/2024,2/21/2024,,2/21/2024,,,
+903788,Breakdown-Prodn Equip Cannot Run,2460 core rod hydrulic cylinder leak,Ready to Schedule,PMDA,D02,M02460,MT,2/14/2024 7:51,KFAIRWEATHER,2/14/2024,2/14/2024,,2/14/2024,,,
+903021,Breakdown-Prodn Equip Cannot Run,M09250 Hyd leak,Completed,PMDA,D17A,M09250,MT,2/9/2024 14:13,SBATHURST,2/9/2024,2/9/2024,2/11/2024 12:23,2/9/2024,,,
+902946,Breakdown-Prodn Equip Cannot Run,air fitting leaking,Completed,PMDA,D21A,M06652,MT,2/9/2024 6:08,LDAVIE,2/9/2024,2/9/2024,2/9/2024 6:10,2/9/2024,,,
+902641,Breakdown-Prodn Equip Cannot Run,Air leak / Magnetic Arm ,Completed,PMDA,D18A,M07597,MT,2/7/2024 18:02,,2/7/2024,2/7/2024,2/7/2024 18:04,2/7/2024,,,
+902589,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State",Faucet Leaking- Door to Met Lab,Completed,PMDA,D58,C58,MT,2/7/2024 15:15,MSHBEH,2/19/2024,2/19/2024,2/19/2024 8:05,2/7/2024,,,MMOORE
+902549,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State",Hydarulic oil Telus 22 is leaking,Released,PMDA,D19B,M04006,MT,2/7/2024 12:45,AVORA,5/15/2024,5/15/2024,,2/7/2024,,,LDAVIE
+902342,Breakdown-Prodn Equip Cannot Run,Right coil leaking,Completed,PMDA,D15A,M07200,MT,2/6/2024 23:38,GSOUSA,2/6/2024,2/6/2024,2/6/2024 23:40,2/6/2024,,,
+902298,Safety,M08522 Oil leak,Completed,PMDA,D61,M08522,MT,2/6/2024 17:36,SBATHURST,2/6/2024,2/6/2024,5/2/2024 14:12,2/6/2024,,,
+901918,Breakdown-Prodn Equip Cannot Run,water leaking out of hose reel ,Completed,PMDA,D16C,M06150,MT,2/5/2024 5:19,LDAVIE,2/5/2024,2/5/2024,2/5/2024 5:21,2/5/2024,,,
+901917,Breakdown-Prodn Equip Cannot Run,Leaking out coolant return pipe,Completed,PMDA,D16B,M05150,MT,2/5/2024 5:14,LDAVIE,2/5/2024,2/5/2024,2/5/2024 5:17,2/5/2024,,,
+901379,Breakdown-Prodn Equip Cannot Run,CSI INTO INSPECT OIL LEAKAGE FROM COMPRESSOR SEAL,Completed,PMDA,D53,M08059,MT,2/1/2024 10:00,EHAMMILL,2/1/2024,2/1/2024,2/1/2024 10:03,2/1/2024,,,
+901345,Breakdown-Prodn Equip Cannot Run,M09820 oil leak ,Completed,PMDA,D19A,M09820,MT,2/1/2024 5:40,MMOORE,2/5/2024,2/5/2024,2/5/2024 18:07,2/1/2024,,,RMALONEY
+901340,Breakdown-Prodn Equip Cannot Run,hydraulic line leaking removal device,Completed,PMDA,D06,M02150,MT,2/1/2024 5:36,MMOORE,2/1/2024,2/1/2024,2/1/2024 5:40,2/1/2024,,,
+900828,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State",WATER LEAK,Released,PMDA,D19B,M04312,MT,1/30/2024 7:32,RAVI.NAIPAUL,5/14/2024,5/14/2024,,1/30/2024,,,RMALONEY
+900801,Breakdown-Prodn Equip Cannot Run,Air leak out of regulator,Completed,PMDA,D03,M02340,MT,1/30/2024 5:51,LDAVIE,1/30/2024,1/30/2024,1/30/2024 13:32,1/30/2024,,,
+900664,Breakdown-Prodn Equip Cannot Run,2460 top lift cylinder leaking,Completed,PMDA,D02,M02460,MT,1/29/2024 12:20,KFAIRWEATHER,1/29/2024,1/29/2024,1/29/2024 12:23,1/29/2024,,,
+900246,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State",10099 air leak,Completed,PMDA,D20,M10099,MT,1/28/2024 5:58,MDUARTE,1/28/2024,1/28/2024,1/28/2024 6:01,1/28/2024,,,
+899972,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State",Water line leaking above 6150 Washer,Completed,PMDA,D16C,M06150,MT,1/26/2024 3:24,GARNOLD,1/26/2024,1/26/2024,3/8/2024 13:57,1/26/2024,,,
+899932,Breakdown-Prodn Equip Cannot Run, MET PRESS Breakdown Water Leak ,Originator Review,PMDA,D20,M10228,MT,1/25/2024 15:38,MSHBEH,3/8/2024,3/10/2024,4/13/2024 11:58,1/25/2024,,,
+899928,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State",Filler Leaking dripping on the back platform,Completed,PMDA,D06,M02100,MT,1/25/2024 15:21,JSINGH,1/25/2024,1/25/2024,2/28/2024 15:06,1/25/2024,,,
+899756,Breakdown-Prodn Equip Cannot Run,Fitting Leaking,Completed,PMDA,D21A,M06645,MT,1/24/2024 17:43,LDAVIE,1/24/2024,1/24/2024,1/24/2024 17:44,1/24/2024,,,
+899603,Breakdown-Prodn Equip Cannot Run,upper ram rapid motion leaking,Completed,PMDA,D04,M02250,MT,1/24/2024 8:02,LBRUZAS,1/24/2024,1/24/2024,4/6/2024 12:06,1/24/2024,,,
+899566,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State","Leaking LUBE oil, have to refill every other day, causing servo X  alarms.",Completed,PMDA,D22B,M00579,MT,1/24/2024 6:24,JCHEEMA,1/31/2024,1/31/2024,2/5/2024 15:07,1/24/2024,,,RMALONEY
+899463,Breakdown-Prodn Equip Cannot Run,coolant leaking,Completed,PMDA,D16B,M09000,MT,1/23/2024 14:30,MMOORE,1/23/2024,1/23/2024,1/23/2024 14:37,1/23/2024,,,
+899262,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State",Fix leaks coming from 9000,Ready to Schedule,PMDA,D16B,M09000,MT,1/23/2024 5:21,GARNOLD,1/23/2024,1/23/2024,,1/23/2024,,,
+899256,Breakdown-Prodn Equip Cannot Run,air leak ,Completed,PMDA,D21A,M09995,MT,1/23/2024 1:51,RMALONEY,1/23/2024,1/23/2024,1/23/2024 1:53,1/23/2024,,,
+899015,Breakdown-Prodn Equip Cannot Run,right coil leaking,Completed,PMDA,D15A,M07200,MT,1/21/2024 18:30,CSAVA,1/21/2024,1/21/2024,1/21/2024 18:32,1/21/2024,,,
+898840,Breakdown-Prodn Equip Cannot Run,Coolant Leak,Completed,PMDA,D21C,M09922,MT,1/19/2024 17:47,LDAVIE,1/19/2024,1/19/2024,1/19/2024 17:53,1/19/2024,,,
+898528,Breakdown-Prodn Equip Cannot Run,2380 core rod gland leaking bye,Ready to Schedule,PMDA,D01,M02380,MT,1/18/2024 12:57,KFAIRWEATHER,1/18/2024,1/18/2024,,1/18/2024,,,
+898524,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State","HYDAULIC UNIT FOR TELLUS 22, LEAKING OIL.",Hold,PMDA,D22B,M00576,MT,1/18/2024 11:40,JCHEEMA,4/7/2024,4/7/2024,,1/18/2024,,,RMALONEY
+898147,Breakdown-Prodn Equip Cannot Run,Tilt station cylinder leak ,Completed,PMDA,D06,M02100,MT,1/17/2024 5:22,,1/17/2024,1/17/2024,1/17/2024 5:23,1/17/2024,,,
+898094,Breakdown-Prodn Equip Cannot Run,air leak,Completed,PMDA,D02,M02310,MT,1/16/2024 18:19,LDAVIE,1/16/2024,1/16/2024,1/16/2024 18:25,1/16/2024,,,
+897078,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State",Deburr has some leaking issues,Completed,PMDA,D19B,M04207,MT,1/11/2024 7:14,,3/28/2024,3/28/2024,4/1/2024 11:34,1/11/2024,,,RMALONEY
+897043,Breakdown-Prodn Equip Cannot Run,Air Leaking,Completed,PMDA,D10,M04160,MT,1/11/2024 5:43,LDAVIE,1/11/2024,1/11/2024,1/11/2024 5:50,1/11/2024,,,
+897039,Breakdown-Prodn Equip Cannot Run,Air Leak On Bottom Platen,Completed,PMDA,D01,M02790,MT,1/11/2024 5:37,LDAVIE,1/11/2024,1/11/2024,1/11/2024 5:50,1/11/2024,,,
+896933,Breakdown-Prodn Equip Cannot Run,Air Leak ,Completed,PMDA,D13B,M07620,MT,1/10/2024 17:26,,1/10/2024,1/10/2024,1/10/2024 17:27,1/10/2024,,,
+896851,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State",check for hydraulic leak for 6647,Completed,PMDA,D21A,M06647,MT,1/10/2024 13:09,,1/25/2024,1/25/2024,1/25/2024 7:24,1/10/2024,,,OESCOBAR
+896847,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State",leaking coolant hoses at back of 9995,Completed,PMDA,D21A,M09995,MT,1/10/2024 13:02,,1/22/2024,1/22/2024,1/23/2024 9:27,1/10/2024,,,RMALONEY
+895996,Safety,M09840 Coolant leak,Completed,PMDA,D19B,M09840,MT,1/8/2024 8:48,SBATHURST,1/8/2024,1/8/2024,1/9/2024 7:50,1/8/2024,,,
+895991,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State",Oil leak @ rear right side of press pipe fitting (photo attached) leak tagged,Ready to Schedule,PMDA,D01,M02450,MT,1/8/2024 8:09,TKUSH,1/8/2024,1/8/2024,,1/8/2024,,,
+895988,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State",oil leak @ upper flywheel cabinet (LEAK TAGGED) bottom right,Ready to Schedule,PMDA,D01,M02450,MT,1/8/2024 7:52,TKUSH,1/8/2024,1/8/2024,,1/8/2024,,,
+895964,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State",Lube aw 68 oil is leaking,Completed,PMDA,D19B,M04003,MT,1/8/2024 6:48,AVORA,3/10/2024,3/10/2024,3/12/2024 8:25,1/8/2024,,,MMOORE
+895963,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State",hydraulic oil aw 22 is leaking ,Released,PMDA,D19B,M04004,MT,1/8/2024 6:45,AVORA,5/13/2024,5/13/2024,,1/8/2024,,,KEN.DUNFORD
+895893,Breakdown-Prodn Equip Cannot Run,Washer leaking at load end ,Completed,PMDA,D17A,M06850,MT,1/7/2024 5:54,OESCOBAR,1/7/2024,1/7/2024,1/7/2024 6:05,1/7/2024,,,
+895697,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State",HOT WATER HEATER IN TOOL STORAGE AREA IS LEAKING,Completed,PMDA,D58,M08225,MT,1/5/2024 8:27,TNEUFFER,1/29/2024,1/29/2024,1/31/2024 11:19,1/5/2024,,,CONM
+895693,Breakdown-Prodn Equip Cannot Run,kitchenet tap leaking and ladies washroom sinks in plant CMM room drains slow,Completed,PMDA,D56,C56,MT,1/5/2024 8:09,SMCLELLAN,1/5/2024,1/5/2024,1/15/2024 13:05,1/5/2024,,,
+895150,Breakdown-Prodn Equip Cannot Run,Air leak for gripper on removal device ,Completed,PMDA,D05,M02200,MT,1/3/2024 5:42,OESCOBAR,1/3/2024,1/3/2024,1/3/2024 5:54,1/3/2024,,,
+895109,Breakdown-Prodn Equip Cannot Run,Coolant leak / Guarding ,Completed,PMDA,D21A,M04032,MT,1/2/2024 17:58,,1/2/2024,1/2/2024,1/2/2024 18:00,1/2/2024,,,
+895019,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State",M04030 COOLANT LEAK,Completed,PMDA,D19B,M04030,MT,1/2/2024 12:08,MHANCOX,1/2/2024,1/2/2024,2/10/2024 10:58,1/2/2024,,,
+895016,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State",Hardlined Constant Air leak from pipe fitting @ lower left of press,Ready to Schedule,PMDA,D02,M02310,MT,1/2/2024 11:50,TKUSH,1/2/2024,1/2/2024,,1/2/2024,,,
+894998,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State",Oil leak @ feeder on underside leaking oil onto press floor mixing with powder,Completed,PMDA,D03,M02340,MT,1/2/2024 10:44,TKUSH,4/3/2024,4/3/2024,4/4/2024 8:56,1/2/2024,,,DANIEL.TIMSON
+894969,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State",Oil leak from underside of feeder onto floors causing slip hazard,Ready to Schedule,PMDA,D03,M02730,MT,1/2/2024 10:18,TKUSH,1/2/2024,1/2/2024,,1/2/2024,,,
+894923,"Corrective Maint-Restore Prodn Equip to ""Normal"" Operating State",Oil Leaks in upper left of press pooling and then leaking out ,Ready to Schedule,PMDA,D01,M02790,MT,1/2/2024 7:39,TKUSH,1/2/2024,1/2/2024,,1/2/2024,,,
+894876,Breakdown-Prodn Equip Cannot Run,Air Leak,Completed,PMDA,D04,M07125,MT,1/2/2024 5:59,LDAVIE,1/2/2024,1/2/2024,1/2/2024 6:15,1/2/2024,,,
