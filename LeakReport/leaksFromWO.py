@@ -1,6 +1,6 @@
 import pandas as pd
 
-woOrders_history = pd.read_excel('n:\\CI\\5S Program\\5S Master Folder\\Leonardo\\Leaks\\woHistory_from2020.xlsx')
+woOrders_history = pd.read_excel('n:\\CI\\5S Program\\5S Master Folder\\Leonardo\\Leaks\\Completed2024.xlsx')
 # dept_counts = woOrders_history['Dept.'].value_counts()
 
 
@@ -32,7 +32,7 @@ woOrders_completed['YearMonth'] = woOrders_completed['Date Completed'].dt.to_per
 
 
 # Filter the DataFrame for rows where 'Status' is 'completed'
-completed_orders = woOrders_completed[woOrders_completed['Status'] == 'completed']
+completed_orders = woOrders_completed[woOrders_completed['Status'] == 'Completed']
 
 # Group by 'YearMonth' and count the occurrences of 'completed' status per 'YearMonth'
 completed_status_counts_per_month = completed_orders.groupby('YearMonth').size().reset_index(name='Count')
@@ -42,6 +42,6 @@ completed_status_counts_per_month = completed_orders.groupby('YearMonth').size()
 status_counts_per_month = woOrders_history.groupby(['YearMonth', 'Status']).size().reset_index(name='Count')
 
 
-status_counts_per_month.to_csv('n:\\CI\\5S Program\\5S Master Folder\\Leonardo\\Leaks\\StatusPerMonth2.csv')
-completed_status_counts_per_month.to_csv('n:\\CI\\5S Program\\5S Master Folder\\Leonardo\\Leaks\\justCompleted.csv')
+status_counts_per_month.to_csv('n:\\CI\\5S Program\\5S Master Folder\\Leonardo\\Leaks\\reported.csv')
+# completed_status_counts_per_month.to_csv('n:\\CI\\5S Program\\5S Master Folder\\Leonardo\\Leaks\\justCompleted.csv')
 
