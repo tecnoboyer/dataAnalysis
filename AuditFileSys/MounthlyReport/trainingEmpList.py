@@ -1,7 +1,7 @@
 import pandas as pd
 
 everybody = pd.read_csv('n:\\CI\\5S Program\\Training\\Analysis\\csvList2.csv')
-# Assuming that csvList has the REMAINING not trained
+# Assuming that csvList2 has the UPDATED HHRR employees
 
 # Next list represents the include roles or position 
 job_titles_to_filter = [
@@ -22,13 +22,16 @@ job_titles_to_filter = [
 
 
 filtered_jobs = everybody[everybody['Job'].isin(job_titles_to_filter)]
-filtered_jobs.to_csv('n:\\CI\\5S Program\\Training\\filtered_jobs.csv', index=False)
-
+# filtered_jobs.to_csv('n:\\CI\\5S Program\\Training\\filtered_jobs.csv', index=False)
 etqList = pd.read_csv('n:\\CI\\5S Program\\Training\\Analysis\\etqRegist2.csv')
+#    #####///Coment
+# etqRegist2.csv stand for the ETQ last update
+# Go ETQ, Download the Part5 : ... & Completed,Get rid of the first 5 line ( just left the header with the column names as is). 
+
 etqList['FistName']=etqList['Employee Name'].str.split(' ', expand=True)[0]
 etqList['surName']=etqList['Employee Name'].str.split(' ', expand=True)[1]
 etqList.rename(columns={'FistName': 'First Name', 'surName': 'Last Name'}, inplace=True)
-etqList.to_csv('n:\\CI\\5S Program\\Training\\etqListBefore2.csv', index=False)
+# etqList.to_csv('n:\\CI\\5S Program\\Training\\etqListBefore2.csv', index=False)
 
 
 merged_df = filtered_jobs.merge(etqList[['First Name', 'Last Name']], on=['First Name', 'Last Name'], how='left', indicator=True)
