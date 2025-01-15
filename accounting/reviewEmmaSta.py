@@ -30,10 +30,11 @@ statement["Date"] = pd.to_datetime(statement["Date"])
 credit_rows = statement[statement["Credit"].notna()]
 
 # Group by month and calculate the total of the 'Credit' column
-credit_by_month = credit_rows.groupby(credit_rows["Date"].dt.to_period("M"))["Credit"].sum()
+# credit_by_month = credit_rows.groupby(credit_rows["Date"].dt.to_period("M"))["Credit"].sum()
+credit_by_description = credit_rows.groupby(credit_rows["Description"])["Credit"].sum()
 
 # Print the result
 print("Total Credit by Month:")
-print(credit_by_month)
+print(credit_by_description)
 
 # print(statement.head(3))
