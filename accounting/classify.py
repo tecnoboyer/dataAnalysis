@@ -7,11 +7,6 @@ from datetime import datetime
 current_directory = os.path.dirname(os.path.abspath(__file__))
 data_file_path = os.path.abspath(os.path.join(current_directory, '..\SencibleDATA', 'accountactivity.csv'))
 
-# current_directory = os.path.dirname(os.path.abspath(__file__))
-# api_key_file_path = os.path.abspath(os.path.join(current_directory, '..', 'API_KEY.txt'))
-
-
-
 # Load the CSV file
 df = pd.read_csv(data_file_path)
 
@@ -25,11 +20,12 @@ description_column = df.columns[1]  # Second column
 grouped_df = df.groupby(description_column).size().reset_index(name='Count')
 
 datename= datetime.now().strftime('%Y%m%d_%H%M%S')
+file_name = f'output_{datename}.csv'
 
-file_path = os.path.join(data_file_path, datename)  # Full path
+file_path = os.path.join(os.path.join(current_directory, '..\SencibleDATA'), file_name)  # Full path
 
 # Save the DataFrame to a CSV file
-df.to_csv(file_path, index=False)
+grouped_df.to_csv(file_path, index=False)
 
 
 
