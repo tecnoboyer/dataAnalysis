@@ -2,7 +2,8 @@ import os
 import pandas as pd
 
 # Define the directory containing the .csv files
-directory = r"C:\Users\technoboyer\Documents\Cuentas"
+directory  = os.path.dirname(os.path.abspath(__file__))
+
 
 # Define the correct column names (assuming all files should have these 5 columns)
 expected_columns = ["Column1", "Column2", "Column3", "Column4", "Column5"]

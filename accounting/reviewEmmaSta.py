@@ -1,5 +1,9 @@
 import pandas as pd
-statement = pd.read_csv('C:\\Users\\technoboyer\\Documents\\CasaCuentas\\EmmaStatements\\EmmaStatements.csv')
+import os 
+
+current_directory = os.path.dirname(os.path.abspath(__file__))
+statement_path = os.path.abspath(os.path.join(current_directory, '..\SencibleDATA', 'EmmaStatements.csv'))
+statement = pd.read_csv(statement_path)
 expected_columns = ["Date", "Description", "Debt", "Credit", "Balance"]
 statement.columns = expected_columns
 
